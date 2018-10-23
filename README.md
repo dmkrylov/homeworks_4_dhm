@@ -23,6 +23,6 @@
 
 №|Описание|Ссылка на работу
 ---:|:---:|---
-1||
+1||https://github.com/dmkrylov/python-dh-hw/blob/master/HW1.ipynb
 2||
 3||
