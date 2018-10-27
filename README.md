@@ -23,6 +23,6 @@
 
 №|Описание|Ссылка на работу
 ---:|:---:|---
-1|Я присоединился к группе позже, поэтому опоздал с дедлайном. \n Но сделал хорошо, пусть и не всегда лаконично.|https://github.com/dmkrylov/python-dh-hw/blob/master/HW1.ipynb
+1|Я присоединился к группе позже, поэтому опоздал с дедлайном. Но сделал хорошо, пусть и не всегда лаконично.|https://github.com/dmkrylov/python-dh-hw/blob/master/HW1.ipynb
 2|Надеюсь, что здесь подобных проблем не будет.|https://github.com/dmkrylov/python-dh-hw/blob/master/HW2.ipynb
 3||
